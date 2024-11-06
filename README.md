@@ -11,6 +11,9 @@ https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=shari
 
 
 ## [Avance De Proyecto Navideno](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Avance_De_Proyecto_Navide%C3%B1o)
+### Descripcion
+Hasta el momento llevamos un avance significativo del proyecto ya que tenemos el circuito completo con las cosas que nos ha pedido el profesor hasta el momento, además hicimos una modificaciones al prototipo inicial ya que remplazamos un servomotor por un motor a pasos para que pueda mover la cabeza mas despacio.
+### Enlace al video de demostracion
 
 
 ## [Curso Python NetAcad](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Curso_Python_NetAcad)
