@@ -1,7 +1,6 @@
 # IoT_instrumento_de_evaluacion_unidad_2
 
-## Ejercicio Practico Integral
-## [Ver aqui](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Ejercicio_Practico_Integral)
+## [Ejercicio Practico Integral](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Ejercicio_Practico_Integral)
 ### Descripcion
 En este ejercicio mi compañero de trabajo y yo realizaremos un circuito para realizar un juego, el cual consistía en que un led RGB mostraba un patrón de colores y el jugador debía seguir el patrón correctamente accionando un joystick.
 Si el jugador seguía el patrón correctamente se sumaba 1 punto y RGB aumentaba un color mas al patrón, pero si el jugador perdía se reiniciaba el contador de puntos y comenzaba de nuevo el juego.
