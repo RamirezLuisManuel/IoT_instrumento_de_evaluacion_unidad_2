@@ -2,7 +2,8 @@
 
 ## Ejercicio Practico Integral
 ### Descripcion
-
+En este ejercicio mi compañero de trabajo y yo realizaremos un circuito para realizar un juego, el cual consistía en que un led RGB mostraba un patrón de colores y el jugador debía seguir el patrón correctamente accionando un joystick.
+Si el jugador seguía el patrón correctamente se sumaba 1 punto y RGB aumentaba un color mas al patrón, pero si el jugador perdía se reiniciaba el contador de puntos y comenzaba de nuevo el juego.
 ### Enlace al video de demostracion
 https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=sharing
 
