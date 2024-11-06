@@ -11,5 +11,5 @@ https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=shari
 
 
 
-## Curso Python NetAcad
+## [Curso Python NetAcad](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Curso_Python_NetAcad)
 A lo largo de este curso aprendí muchas cosas nuevas y reforcé muchas otras cosas que ya conocía, así que de esta manera puedo decir que mis conocimientos adquiridos a lo largo de este curso me pueden servir para muchísimas cosas una vez que entre al mundo laborar y profesional ya que muchas empresas trabajan con Python. 
