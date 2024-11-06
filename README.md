@@ -7,7 +7,7 @@ Si el jugador seguía el patrón correctamente se sumaba 1 punto y RGB aumentaba
 ### Enlace al video de demostracion
 https://drive.google.com/file/d/1qbYqf8R_A-7fCYCmoLLtiiUeB3Xnd_zn/view?usp=sharing
 
-## Ejercicios Practicos En Clase
+## [Ejercicios Practicos En Clase](https://github.com/RamirezLuisManuel/IoT_instrumento_de_evaluacion_unidad_2/tree/main/Ejercicios_Practicos_En_Clase)
 
 
 
